@@ -7,14 +7,12 @@ import asyncio
 import datetime
 import re
 
-TOKEN = 'MTA5Njc4Mjg1OTgyNzY4MzQ1OA.GfkTFy.9ZOQ1bnY93_m5zi5GDr-d6pyW1oSSEh0tilvrA' #redmonke6
-API_KEY = 'nijPCMuokuDnPnf3'
+TOKEN = ''
+API_KEY = ''
 ROLE_ID = ''
 MAIN_TRACKER_ID = ''
 FLIGHT_TRACKER_ID = ''
 FACTION_ID = 19060
-FACTION_ID2 = 26885
-FACTION_ID3 = 8509
 flight_tracker_message = None
 
 intents = discord.Intents.all()
